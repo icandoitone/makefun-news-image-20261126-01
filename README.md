@@ -1,5 +1,9 @@
 # The World in One Day — Thursday 26 November 2026
 
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/icandoitone/makefun-news-image-20261126-01/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/icandoitone/makefun-news-image-20261126-01/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 A make.fun `news-image-20261126` entry: a Python 3.13 program that draws a
 newspaper front page summing up Thursday 26 November 2026's world news,
 entirely in code (Pillow + DejaVu fonts). No network, no randomness, no
@@ -46,3 +50,7 @@ output is 1024×1024 PNG, 115,388 bytes (under the 1 MiB limit).
 ## License
 
 MIT — see LICENSE.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=icandoitone&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards</sub>
